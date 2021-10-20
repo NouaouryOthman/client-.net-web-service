@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\bin\Debug\WebService_JaxWS.exe.config
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\bin\Debug\WebService_JaxWS.exe
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\bin\Debug\WebService_JaxWS.pdb
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\obj\Debug\WebService_JaxWS.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\obj\Debug\WebService_JaxWS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\obj\Debug\WebService_JaxWS.exe
+C:\Users\lenovo\Desktop\JEE_2\WebService_JaxWS\obj\Debug\WebService_JaxWS.pdb
